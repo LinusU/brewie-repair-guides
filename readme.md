@@ -21,7 +21,7 @@ This repository contains a copy of the repair guides for the Brewie B20 and B20+
 - [E119 - Front panel](B20/E119%20-%20Front%20panel.docx)
 - [E120 - MCU panel](B20/E120%20-%20MCU%20panel.docx)
 - [E121 - Fuse](B20/E121%20-%20Fuse.docx)
-- E122 - Boil heater element **(missing)**
+- [E122 - Boil heater element](B20/E122%20-%20Boil%20heater%20element.docx)
 - [E123 - Mash heater element](B20/E123%20-%20Mash%20heater%20element.docx)
 - [E124 - Heat exchanger](B20/E124%20-%20Heat%20exchanger.docx)
 - [E126 - Power button](B20/E126%20-%20Power%20button.docx)
