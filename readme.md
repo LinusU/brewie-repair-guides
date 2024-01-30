@@ -2,7 +2,11 @@
 
 This repository contains a copy of the repair guides for the Brewie B20 and B20+
 
+For some repair steps it is required to access the dev-mode. There you have the possiblity to open vales etc.
+
 ## B20
+
+DevMode: Go to Receipes and type in **!#43373#**
 
 - [E101 - Mash pump](B20/E101%20-%20Mash%20pump.md)
 - [E102 - Boil pump](B20/E102%20-%20Boil%20pump.md)
@@ -41,6 +45,8 @@ This repository contains a copy of the repair guides for the Brewie B20 and B20+
 - [E146 - Polishing instructions](B20/E146%20-%20Polishing%20instructions.md)
 
 ## B20+
+
+DevMode: Go to Receipes and type in **morecontrol**
 
 - [E101 - Mash pump](B20%2B/E101%20-%20Mash%20pump.md)
 - [E102 - Boil pump](B20%2B/E102%20-%20Boil%20pump.md)
